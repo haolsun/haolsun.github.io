@@ -2,33 +2,38 @@
 
 == Publications 
 \[[https://scholar.google.com/citations?user=s5FAQ5wAAAAJ&hl=en Google Scholar]\] \n
-(* denotes equal contribution, \# denotes corresponding author)
+(\# denotes equal contribution, \* denotes corresponding author)
 
 #=== ~~Preprint
 #- Toward Understanding Generative Data Augmentation
-#    \[[https://arxiv.org/abs/2305.17476 arxiv]\] \n
+#    \[[https://arxiv.org/abs/2305.17476 arXiv]\] \n
 #    Chenyu Zheng, *Guoqiang Wu*, Chongxuan Li
 
 #=== ~~2023
 
 - Attentional Prototype Inference for Few-Shot Segmentation 
-    \[[https://arxiv.org/abs/2105.06668 arxiv]\] \n
+    \[[https://arxiv.org/abs/2105.06668 arXiv]\] \[[https://github.com/haolsun/API Code]\] \n
     *Haoliang Sun*, Xiankai Lu, Haochen Wang, Yilong Yin, Xiantong Zhen, Cees G. M. Snoek, Ling Shao \n
     Pattern Recognition (PR), 2023. 
 
 - MetaViewer: Towards A Unified Multi-View Representation 
-    \[[https://arxiv.org/abs/2303.06329 arxiv]\] \n
-    Ren Wang, *Haoliang Sun\#*, Yuling Ma, Xiaoming Xi, Yilong Yin \n
+    \[[https://arxiv.org/abs/2303.06329 arXiv]\] \n
+    Ren Wang, *Haoliang Sun\**, Yuling Ma, Xiaoming Xi, Yilong Yin \n
     In proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
 - Fine-Grained Classification with Noisy Labels
-    \[[https://arxiv.org/abs/2303.02404 arxiv]\] \n
-    Qi Wei, Lei Feng, *Haoliang Sun\#*, Ren Wang, Chenhui Guo, Yilong Yin \n
+    \[[https://arxiv.org/abs/2303.02404 arXiv]\] \n
+    Qi Wei, Lei Feng, *Haoliang Sun\**, Ren Wang, Chenhui Guo, Yilong Yin \n
     In proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
+- 面向标签噪声学习的联合训练框架 
+    \[[https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0395 URL]\] \n
+    魏琦, *孙皓亮\**, 马玉玲，尹义龙 \n
+    中国科学: 信息科学, 2023. 
+
 - Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization 
-    \[[https://arxiv.org/abs/2208.11351 arxiv]\] \n
-    Qi Wei, *Haoliang Sun\#*, Xiankai Lu, Yilong Yin \n
+    \[[https://arxiv.org/abs/2208.11351 arXiv]\] \n
+    Qi Wei, *Haoliang Sun\**, Xiankai Lu, Yilong Yin \n
     In proc. of European Conference on Computer Vision (ECCV), 2022. 
 
 - Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments 
@@ -38,13 +43,13 @@
 
 
 - Learning Transferable Parameters for Unsupervised Domain Adaptation 
-    \[[hhttps://arxiv.org/abs/2108.06129 arxiv]\] \n
+    \[[https://arxiv.org/abs/2108.06129 arXiv]\] \n
     Zhongyi Han, *Haoliang Sun*, Yilong Yin \n
     IEEE Transactions on Image Processing, 2022.
 
 
 - MetaKernel: Learning Variational Random Features with Limited Labels
-    \[[https://arxiv.org/abs/2105.03781 arxiv]\] \n
+    \[[https://arxiv.org/abs/2105.03781 arXiv]\] \n
     Yingjun Du, *Haoliang Sun*, Xiantong Zhen, Jun Xu, Yilong Yin, Ling Shao, Cees GM Snoek \n
     IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2022.
 
@@ -55,25 +60,25 @@
 
 
 - Learning to Rectify for Robust Learning with Noisy Labels
-    \[[https://arxiv.org/abs/2111.04239 arxiv]\] \n
-    *Haoliang Sun\**, Chenhui Guo\*, Qi Wei, Zhongyi Han, and Yilong Yin \n
+    \[[https://arxiv.org/abs/2111.04239 arXiv]\] \[[https://github.com/haolsun/WarPI Code]\] \n
+    *Haoliang Sun\#*, Chenhui Guo\#, Qi Wei, Zhongyi Han, and Yilong Yin \n
     Pattern Recognition (PR), 2021. 
 
 
 - Learning to Learn Kernels with Variational Random Features 
-    \[[https://arxiv.org/abs/2006.06707 arxiv]\] \n
-    Xiantong Zhen*, *Haoliang Sun**, Yingjun Du*, Jun Xu, Yilong Yin, Ling Shao, Cees Snoek \n
+    \[[https://arxiv.org/abs/2006.06707 arXiv] \[[https://github.com/haolsun/MetaVRF Code]\]  \n
+    Xiantong Zhen\#, *Haoliang Sun\#*, Yingjun Du\#, Jun Xu, Yilong Yin, Ling Shao, Cees Snoek \n
     In proc. of International Conference on Machine Learning (ICML), 2020. 
 
 
 - DUAL-GLOW: Conditional Flow-Based Generative Model for Modality Transfer 
-    \[[https://arxiv.org/abs/1908.08074 arxiv]\] \n
+    \[[https://arxiv.org/abs/1908.08074 arXiv]\] \[[https://github.com/haolsun/dual-glow Code]\] \n
     *Haoliang Sun*, Ronak Mehta, Hao H. Zhou, Zhichun Huang, Sterling C. Johnson, Vivek Prabhakaran, Vikas Singh \n
     In proc. of IEEE International Conference on Computer Vision (ICCV), 2019. 
 
 
 - Learning the Set Graphs: Image-Set Classification Using Sparse Graph Convolutional Networks
-    \[[https://arxiv.org/abs/2208.11351 arxiv]\] \n
+    \[[https://arxiv.org/abs/2208.11351 arXiv]\] \n
     *Haoliang Sun*, Xiantong Zhen, and Yilong Yin \n
     In proc. of IEEE International Conference on Image Processing (ICIP), 2019. 
 
@@ -89,6 +94,6 @@
     In proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.     
 
 - Directly Estimating Spinal Cobb Angles by Structured Multi-Output Regression
-    \[[https://arxiv.org/abs/2012.12626 arxiv]\] \n
+    \[[https://arxiv.org/abs/2012.12626 arXiv]\] \n
     *Haoliang Sun*, Xiantong Zhen, Chris Bailey, Parham Rasoulinejad, Yilong Yin, and Shuo Li \n
     International Conference on Information Processing in Medical Imaging (Oral Paper, IPMI), 2017.  
