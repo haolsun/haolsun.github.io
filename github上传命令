@@ -1,3 +1,4 @@
+python2 jemdoc.py ***.jemdoc
 git add .
 git commit -m 'publications'
 git push origin main:master
