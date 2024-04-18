@@ -11,9 +11,9 @@
 
 #=== ~~2023
 
-- Learning Sample-Aware Threshold for Semi-Supervised Learning \n
+- Learning Sample-Aware Threshold for Semi-Supervised Learning \[[https://link.springer.com/article/10.1007/s10994-023-06425-7 URL]\]\n
     Qi Wei, Lei Feng, *Haoliang Sun\**, Ren Wang, Rundong He, Yilong Yin \n 
-    Machine Learning, 2023 (Accepted, ACML Journal Track). 
+    Machine Learning, 2023 (ACML Journal Track). 
 
 - Attentional Prototype Inference for Few-Shot Segmentation 
     \[[https://arxiv.org/abs/2105.06668 arXiv]\] \[[https://github.com/haolsun/API Code]\] \n
