@@ -11,6 +11,12 @@
 
 #=== ~~2023
 
+- Variational Rectification Inference for Learning with Noisy
+Labels \[[https://qiwei98cn.top/2023/VRI.pdf URL]\]\[[https://github.com/haolsun/VRI Code]\] \n
+    *Haoliang Sun\#*, Qi Wei\#, Lei Feng, Yupeng Hu, Fan Liu,
+Hehe Fan, Yilong Yin \n 
+    International Journal of Computer Vision (IJCV), 2024. 
+
 - Learning Sample-Aware Threshold for Semi-Supervised Learning \[[https://link.springer.com/article/10.1007/s10994-023-06425-7 URL]\]\n
     Qi Wei, Lei Feng, *Haoliang Sun\**, Ren Wang, Rundong He, Yilong Yin \n 
     Machine Learning, 2023 (ACML Journal Track). 
