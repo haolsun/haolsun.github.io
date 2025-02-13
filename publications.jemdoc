@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
 
-== Publications 
+== Selective Publications 
 \[[https://scholar.google.com/citations?user=s5FAQ5wAAAAJ&hl=en Google Scholar]\] \n
 (\# denotes equal contribution, \* denotes corresponding author)
 
@@ -11,25 +11,13 @@
 
 #=== ~~2023
 
+=== ~~Robust Learning with Noisy Labels
+
 - Variational Rectification Inference for Learning with Noisy
 Labels \[[https://qiwei98cn.top/2023/VRI.pdf URL]\]\[[https://github.com/haolsun/VRI Code]\] \n
     *Haoliang Sun\#*, Qi Wei\#, Lei Feng, Yupeng Hu, Fan Liu,
 Hehe Fan, Yilong Yin \n 
     International Journal of Computer Vision (IJCV), 2024. 
-
-- Learning Sample-Aware Threshold for Semi-Supervised Learning \[[https://link.springer.com/article/10.1007/s10994-023-06425-7 URL]\]\n
-    Qi Wei, Lei Feng, *Haoliang Sun\**, Ren Wang, Rundong He, Yilong Yin \n 
-    Machine Learning, 2023 (ACML Journal Track). 
-
-- Attentional Prototype Inference for Few-Shot Segmentation 
-    \[[https://arxiv.org/abs/2105.06668 arXiv]\] \[[https://github.com/haolsun/API Code]\] \n
-    *Haoliang Sun*, Xiankai Lu, Haochen Wang, Yilong Yin, Xiantong Zhen, Cees G. M. Snoek, Ling Shao \n
-    Pattern Recognition (PR), 2023. 
-
-- MetaViewer: Towards A Unified Multi-View Representation 
-    \[[https://arxiv.org/abs/2303.06329 arXiv]\] \n
-    Ren Wang, *Haoliang Sun\**, Yuling Ma, Xiaoming Xi, Yilong Yin \n
-    In proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
 - Fine-Grained Classification with Noisy Labels
     \[[https://arxiv.org/abs/2303.02404 arXiv]\] \n
@@ -46,16 +34,41 @@ Hehe Fan, Yilong Yin \n
     Qi Wei, *Haoliang Sun\**, Xiankai Lu, Yilong Yin \n
     In proc. of European Conference on Computer Vision (ECCV), 2022. 
 
-- Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments 
-    \[[https://www.researchgate.net/profile/Shuo-Li-42/publication/364362941_Towards_Accurate_and_Robust_Domain_Adaptation_Under_Multiple_Noisy_Environments/links/6352d6456e0d367d91b2a254/Towards-Accurate-and-Robust-Domain-Adaptation-Under-Multiple-Noisy-Environments.pdf pdf]\] \n
-    Zhongyi Han, Xian-Jin Gui, *Haoliang Sun*, Yilong Yin, Shuo Li \n
-    IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2022.
+- Learning to Rectify for Robust Learning with Noisy Labels
+    \[[https://arxiv.org/abs/2111.04239 arXiv]\] \[[https://github.com/haolsun/WarPI Code]\] \n
+    *Haoliang Sun\#*, Chenhui Guo\#, Qi Wei, Zhongyi Han, and Yilong Yin \n
+    Pattern Recognition (PR), 2021. 
 
 
-- Learning Transferable Parameters for Unsupervised Domain Adaptation 
-    \[[https://arxiv.org/abs/2108.06129 arXiv]\] \n
-    Zhongyi Han, *Haoliang Sun*, Yilong Yin \n
-    IEEE Transactions on Image Processing, 2022.
+
+=== ~~Meta-Learning & Few-Shot Learning
+
+
+- Learning Sample-Aware Threshold for Semi-Supervised Learning \[[https://link.springer.com/article/10.1007/s10994-023-06425-7 URL]\]\n
+    Qi Wei, Lei Feng, *Haoliang Sun\**, Ren Wang, Rundong He, Yilong Yin \n 
+    Machine Learning, 2023 (ACML Journal Track). 
+
+- Attentional Prototype Inference for Few-Shot Segmentation 
+    \[[https://arxiv.org/abs/2105.06668 arXiv]\] \[[https://github.com/haolsun/API Code]\] \n
+    *Haoliang Sun*, Xiankai Lu, Haochen Wang, Yilong Yin, Xiantong Zhen, Cees G. M. Snoek, Ling Shao \n
+    Pattern Recognition (PR), 2023. 
+
+- MetaViewer: Towards A Unified Multi-View Representation 
+    \[[https://arxiv.org/abs/2303.06329 arXiv]\] \n
+    Ren Wang, *Haoliang Sun\**, Yuling Ma, Xiaoming Xi, Yilong Yin \n
+    In proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
+
+#- Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments 
+#    \[[https://www.researchgate.net/profile/Shuo-Li-42/publication/364362941_Towards_Accurate_and_Robust_Domain_Adaptation_Under_Multiple_Noisy_Environments/links/6352d6456e0d367d91b2a254/Towards-Accurate-and-Robust-Domain-Adaptation-Under-Multiple-Noisy-Environments.pdf pdf]\] \n
+#    Zhongyi Han, Xian-Jin Gui, *Haoliang Sun*, Yilong Yin, Shuo Li \n
+#    IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2022.
+
+
+#- Learning Transferable Parameters for Unsupervised Domain Adaptation 
+#    \[[https://arxiv.org/abs/2108.06129 arXiv]\] \n
+#    Zhongyi Han, *Haoliang Sun*, Yilong Yin \n
+#    IEEE Transactions on Image Processing, 2022.
 
 
 - MetaKernel: Learning Variational Random Features with Limited Labels
@@ -68,18 +81,13 @@ Hehe Fan, Yilong Yin \n
     Ren Wang, *Haoliang Sun*, Xiushan Nie, Yilong Yin \n
     Knowledge-Based Systems (KBS), 2022. 
 
-
-- Learning to Rectify for Robust Learning with Noisy Labels
-    \[[https://arxiv.org/abs/2111.04239 arXiv]\] \[[https://github.com/haolsun/WarPI Code]\] \n
-    *Haoliang Sun\#*, Chenhui Guo\#, Qi Wei, Zhongyi Han, and Yilong Yin \n
-    Pattern Recognition (PR), 2021. 
-
-
 - Learning to Learn Kernels with Variational Random Features 
     \[[https://arxiv.org/abs/2006.06707 arXiv] \[[https://github.com/haolsun/MetaVRF Code]\]  \n
     Xiantong Zhen\#, *Haoliang Sun\#*, Yingjun Du\#, Jun Xu, Yilong Yin, Ling Shao, Cees Snoek \n
     In proc. of International Conference on Machine Learning (ICML), 2020. 
 
+
+=== ~~Other Topics
 
 - DUAL-GLOW: Conditional Flow-Based Generative Model for Modality Transfer 
     \[[https://arxiv.org/abs/1908.08074 arXiv]\] \[[https://github.com/haolsun/dual-glow Code]\] \n
@@ -93,10 +101,10 @@ Hehe Fan, Yilong Yin \n
     In proc. of IEEE International Conference on Image Processing (ICIP), 2019. 
 
 
-- Modality-specific Structure Pre-serving Hashing for Cross-modal retrieval
-    \[[https://ieeexplore.ieee.org/document/8462454 URL]\] \n
-    Xingbo Liu, Xiushan Nie, *Haoliang Sun*, Chaoran Cui, Yilong Yin \n
-    In proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. 
+#- Modality-specific Structure Pre-serving Hashing for Cross-modal retrieval
+#    \[[https://ieeexplore.ieee.org/document/8462454 URL]\] \n
+#    Xingbo Liu, Xiushan Nie, *Haoliang Sun*, Chaoran Cui, Yilong Yin \n
+#    In proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. 
 
 - Learning Deep Match Kernels for Image-Set Classification
     \[[https://web.archive.org/web/20181123142235id_/http://openaccess.thecvf.com:80/content_cvpr_2017/papers/Sun_Learning_Deep_Match_CVPR_2017_paper.pdf pdf]\] \n
