@@ -19,15 +19,15 @@ Labels \[[https://qiwei98cn.top/2023/VRI.pdf URL]\]\[[https://github.com/haolsun
 Hehe Fan, Yilong Yin \n 
     International Journal of Computer Vision (IJCV), 2024. 
 
+- 面向标签噪声学习的联合训练框架 
+    \[[https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0395 URL]\] \n
+    魏琦, *孙皓亮\**, 马玉玲，尹义龙 \n
+    中国科学:信息科学, 2024. 
+
 - Fine-Grained Classification with Noisy Labels
     \[[https://arxiv.org/abs/2303.02404 arXiv]\] \n
     Qi Wei, Lei Feng, *Haoliang Sun\**, Ren Wang, Chenhui Guo, Yilong Yin \n
     In proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
-
-- 面向标签噪声学习的联合训练框架 
-    \[[https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0395 URL]\] \n
-    魏琦, *孙皓亮\**, 马玉玲，尹义龙 \n
-    中国科学: 信息科学, 2023. 
 
 - Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization 
     \[[https://arxiv.org/abs/2208.11351 arXiv]\] \n
