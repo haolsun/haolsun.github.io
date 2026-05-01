@@ -14,7 +14,7 @@ Please refer to \[[https://scholar.google.com/citations?user=s5FAQ5wAAAAJ&hl=en 
 === ~~Generative Models
 
 - Riemannian MeanFlow for One-Step Generation on Manifolds
-    \[[https://arxiv.org/abs/2603.10718 arXiv]\] \[[https://github.com/haolsun/dual-glow Code]\] \n
+    \[[https://arxiv.org/abs/2603.10718 arXiv]\] \[[https://github.com/haolsun/Riemannian_MeanFlow Code]\] \n
     Zichen Zhong, *Haoliang Sun*, Yukun Zhao, Yongshun Gong, Yilong Yin \n
     In proc. of International Conference on Machine Learning (ICML), 2026. 
 
