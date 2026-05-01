@@ -11,6 +11,18 @@ Please refer to \[[https://scholar.google.com/citations?user=s5FAQ5wAAAAJ&hl=en 
 
 #=== ~~2023
 
+=== ~~Generative Models
+
+- Riemannian MeanFlow for One-Step Generation on Manifolds
+    \[[https://arxiv.org/abs/2603.10718 arXiv]\] \[[https://github.com/haolsun/dual-glow Code]\] \n
+    Zichen Zhong, *Haoliang Sun*, Yukun Zhao, Yongshun Gong, Yilong Yin \n
+    In proc. of International Conference on Machine Learning (ICML), 2026. 
+
+- DUAL-GLOW: Conditional Flow-Based Generative Model for Modality Transfer 
+    \[[https://arxiv.org/abs/1908.08074 arXiv]\] \[[https://github.com/haolsun/dual-glow Code]\] \n
+    *Haoliang Sun*, Ronak Mehta, Hao H. Zhou, Zhichun Huang, Sterling C. Johnson, Vivek Prabhakaran, Vikas Singh \n
+    In proc. of IEEE International Conference on Computer Vision (ICCV), 2019. 
+
 === ~~Robust Learning with Noisy Labels
 
 - Variational Rectification Inference for Learning with Noisy
@@ -41,7 +53,12 @@ Hehe Fan, Yilong Yin \n
 
 
 
-=== ~~Meta-Learning & Few-Shot Learning
+=== ~~Learning in A Dynamic Environment
+
+- SeqMvRL: A Sequential Fusion Framework for Multi-view Representation Learning 
+    \[[https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_SeqMvRL_A_Sequential_Fusion_Framework_for_Multi-view_Representation_Learning_CVPR_2025_paper.pdf URL]\] \n
+    Ren Wang, *Haoliang Sun*, Yuxiu Lin, Chuanhui Zuo, Yongshun Gong, Yilong Yin, Wenjia Meng \n
+    In proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 
 
 - Learning Sample-Aware Threshold for Semi-Supervised Learning \[[https://link.springer.com/article/10.1007/s10994-023-06425-7 URL]\]\n
@@ -87,12 +104,7 @@ Hehe Fan, Yilong Yin \n
     In proc. of International Conference on Machine Learning (ICML), 2020. 
 
 
-=== ~~Other Topics
-
-- DUAL-GLOW: Conditional Flow-Based Generative Model for Modality Transfer 
-    \[[https://arxiv.org/abs/1908.08074 arXiv]\] \[[https://github.com/haolsun/dual-glow Code]\] \n
-    *Haoliang Sun*, Ronak Mehta, Hao H. Zhou, Zhichun Huang, Sterling C. Johnson, Vivek Prabhakaran, Vikas Singh \n
-    In proc. of IEEE International Conference on Computer Vision (ICCV), 2019. 
+=== ~~Kernel Methods
 
 
 - Learning the Set Graphs: Image-Set Classification Using Sparse Graph Convolutional Networks
