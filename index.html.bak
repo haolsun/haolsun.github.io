@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Haoliang Sun (孙皓亮) · Personal Homepage</title>
+  <meta name="description" content="Haoliang Sun — Associate Professor at Shandong University. Research in machine learning and computer vision: meta-learning, weakly supervised learning, generative models.">
+  <link rel="icon" href="assets/img/bio.png">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <!-- Top navigation -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-brand" href="#top">Haoliang Sun</a>
+      <div class="nav-links">
+        <a href="#about">About</a>
+        <a href="#news">News</a>
+        <a href="#publications">Publications</a>
+        <a href="#education">Education</a>
+        <a href="#honors">Honors</a>
+        <a href="#services">Services</a>
+        <a href="#courses">Courses</a>
+        <a href="#people">People</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme"></button>
+    </div>
+  </nav>
+
+  <div class="wrap" id="top">
+
+    <!-- Sidebar profile -->
+    <aside class="sidebar">
+      <div class="profile">
+        <img class="avatar" src="assets/img/bio.png" alt="Haoliang Sun">
+        <h1>Haoliang Sun</h1>
+        <div class="zh">孙皓亮</div>
+        <div class="role">Associate Professor</div>
+        <div class="affil">Artificial Intelligence Research Center<br>School of Software, Shandong University</div>
+        <div class="bio-mini">Machine learning &amp; computer vision — meta-learning, weakly supervised learning, generative models.</div>
+
+        <div class="socials">
+          <a href="https://scholar.google.com/citations?user=s5FAQ5wAAAAJ" title="Google Scholar" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M12 3 1 9l11 6 9-4.91V17h2V9L12 3zm-7 10.18v3.89L12 21l7-3.93v-3.89L12 17l-7-3.82z"/></svg>
+          </a>
+          <a href="https://github.com/haolsun" title="GitHub" target="_blank" rel="noopener">
+            <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          </a>
+          <a href="mailto:haolsun@sdu.edu.cn" title="Email">
+            <svg viewBox="0 0 24 24"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 4.24-8 5.71-8-5.71V6l8 5.71L20 6v2.24z"/></svg>
+          </a>
+          <a href="https://faculty.sdu.edu.cn/sunhaoliang1/zh_CN/" title="中文主页" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm7.93 9H13V4.07A8 8 0 0 1 19.93 11zM13 19.93V13h6.93A8 8 0 0 1 13 19.93zM11 4.07V11H4.07A8 8 0 0 1 11 4.07zM4.07 13H11v6.93A8 8 0 0 1 4.07 13z"/></svg>
+          </a>
+        </div>
+
+        <a class="btn-cv" href="files/my_CV.pdf" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+          Download CV
+        </a>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <main class="content">
+
+      <!-- About -->
+      <section class="section" id="about">
+        <h2>About Me</h2>
+        <p class="lead">
+          I am an Associate Professor at the
+          <a href="https://www.sc.sdu.edu.cn/" target="_blank" rel="noopener">School of Software</a>,
+          <a href="https://www.sdu.edu.cn" target="_blank" rel="noopener">Shandong University</a>.
+          I received my PhD (2020) and Bachelor (2014) degrees in Engineering from Shandong University,
+          under the supervision of Prof. <a href="https://scholar.google.com/citations?user=..." target="_blank" rel="noopener">Yilong Yin</a>.
+          In 2016 I visited Prof. Shuo Li's group at Western University, Canada as a visiting student.
+          Supported by the China Scholarship Council (CSC), I spent one and a half years at the
+          University of Wisconsin–Madison under the supervision of Prof. Vikas Singh.
+          I also pursued an internship at the Inception Institute of Artificial Intelligence (IIAI), UAE.
+        </p>
+        <p>
+          My research interests span both machine learning and computer vision, including
+          <strong>meta-learning</strong>, <strong>weakly supervised learning</strong>, and
+          <strong>generative models</strong>.
+        </p>
+        <div class="note">
+          招生信息请参看<a href="https://faculty.sdu.edu.cn/sunhaoliang1/zh_CN/" target="_blank" rel="noopener">中文主页</a>。
+          Currently, I am only able to consider applications from domestic students. Thank you for your understanding and interest.
+        </div>
+      </section>
+
+      <!-- News -->
+      <section class="section" id="news">
+        <h2>News</h2>
+        <ul class="news">
+          <li><span class="date">2026.06</span><span class="txt">One paper was accepted by <strong>ECCV 2026</strong>. Congrats to Yaqi Zhao.</span></li>
+          <li><span class="date">2026.05</span><span class="txt">Two papers were accepted by <strong>ICML 2026</strong>. Congrats to Zichen Zhong and Lehui Li.</span></li>
+          <li><span class="date">2025.11</span><span class="txt">Dr. Nick Tobin from Karolinska Institute visited our group for academic exchange.</span></li>
+          <li><span class="date">2025.11</span><span class="txt">Gave a talk on &ldquo;Human–AI Collaborative Methods and Applications in Medical Decision-Making&rdquo; at the 8th SDU–KI Joint Symposium.</span></li>
+          <li><span class="date">2025.04</span><span class="txt">Two papers were accepted by <strong>IJCAI 2025</strong>. Congrats to Ren Wang and Shilu Yuan.</span></li>
+          <li><span class="date">2025.02</span><span class="txt">One paper was accepted by <strong>CVPR 2025</strong>. Congrats to Ren Wang.</span></li>
+          <li><span class="date">2024.09</span><span class="txt">Gave a talk on &ldquo;SSL-based noisy label learning and beyond&rdquo; at Guilin University of Electronic Technology.</span></li>
+          <li><span class="date">2024.07</span><span class="txt">One paper was accepted by <strong>IJCV</strong>. Congrats to all co-authors.</span></li>
+          <li><span class="date">2024.07</span><span class="txt">One paper was accepted by <strong>CIKM</strong>. Congrats to Yang An.</span></li>
+          <li><span class="date">2023.12</span><span class="txt">Awarded the title of <strong>Young Expert of Taishan Scholars</strong> in Shandong Province.</span></li>
+        </ul>
+      </section>
+
+      <!-- Publications -->
+      <section class="section" id="publications">
+        <h2>Selected Publications</h2>
+        <p class="lead">Please refer to
+          <a href="https://scholar.google.com/citations?user=s5FAQ5wAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+          for the complete list. (# denotes equal contribution, * denotes corresponding author.)</p>
+
+        <!-- ============================================================
+             缩略图占位（可选）—— 想给某篇论文加配图时，按下面两步做：
+             1) 把你的图片放进 assets/img/pubs/  （建议 5:3 比例，如 500×300）
+             2) 把该论文的 <div class="pub">…</div> 整段，替换成下面这种结构
+                （把 <!-- 和 --> 去掉、改好 src 即可）：
+
+             <div class="paper-box">
+               <div class="paper-box-media">
+                 <div class="badge">ICML 2026</div>
+                 <div class="paper-box-image"><img src="assets/img/pubs/RMF.png" alt="" loading="lazy"></div>
+               </div>
+               <div class="pub-body">
+                 <div class="pub-title">Riemannian MeanFlow for One-Step Generation on Manifolds</div>
+                 <div class="pub-authors">Zichen Zhong, <span class="me">Haoliang Sun</span>*, Yukun Zhao, Yongshun Gong, Yilong Yin</div>
+                 <div class="pub-venue">International Conference on Machine Learning (ICML), 2026.</div>
+                 <div class="pub-links">
+              <a href="https://arxiv.org/abs/2603.10718" target="_blank" rel="noopener">arXiv</a>
+              <a href="https://github.com/haolsun/Riemannian_MeanFlow" target="_blank" rel="noopener">Code</a>
+            </div>
+               </div>
+             </div>
+
+             注：.paper-box 的样式已经写在 assets/css/style.css 里，无需再改。
+             ============================================================ -->
+
+        <h3 class="group">Generative Models</h3>
+
+        <div class="pub">
+          <div class="badge">ICML<br>2026</div>
+          <div class="pub-body">
+            <div class="pub-title">Riemannian MeanFlow for One-Step Generation on Manifolds</div>
+            <div class="pub-authors">Zichen Zhong, <span class="me">Haoliang Sun</span>*, Yukun Zhao, Yongshun Gong, Yilong Yin</div>
+            <div class="pub-venue">International Conference on Machine Learning (ICML), 2026.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2603.10718" target="_blank" rel="noopener">arXiv</a>
+              <a href="https://github.com/haolsun/Riemannian_MeanFlow" target="_blank" rel="noopener">Code</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">ICCV<br>2019</div>
+          <div class="pub-body">
+            <div class="pub-title">DUAL-GLOW: Conditional Flow-Based Generative Model for Modality Transfer</div>
+            <div class="pub-authors"><span class="me">Haoliang Sun</span>*, Ronak Mehta, Hao H. Zhou, Zhichun Huang, Sterling C. Johnson, Vivek Prabhakaran, Vikas Singh</div>
+            <div class="pub-venue">IEEE International Conference on Computer Vision (ICCV), 2019.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/1908.08074" target="_blank" rel="noopener">arXiv</a>
+              <a href="https://github.com/haolsun/dual-glow" target="_blank" rel="noopener">Code</a>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="group">Robust Learning with Noisy Labels</h3>
+
+        <div class="pub">
+          <div class="badge">IJCV<br>2025</div>
+          <div class="pub-body">
+            <div class="pub-title">Variational Rectification Inference for Learning with Noisy Labels</div>
+            <div class="pub-authors"><span class="me">Haoliang Sun</span>#*, Qi Wei#, Lei Feng, Yupeng Hu, Fan Liu, Hehe Fan, Yilong Yin</div>
+            <div class="pub-venue">International Journal of Computer Vision (IJCV), 2025.</div>
+            <div class="pub-links">
+              <a href="https://qiwei98cn.top/2023/VRI.pdf" target="_blank" rel="noopener">PDF</a>
+              <a href="https://github.com/haolsun/VRI" target="_blank" rel="noopener">Code</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">SCI<br>2024</div>
+          <div class="pub-body">
+            <div class="pub-title">面向标签噪声学习的联合训练框架 (Joint Training Framework for Label Noise Learning)</div>
+            <div class="pub-authors">Qi Wei, <span class="me">Haoliang Sun</span>*, Yuling Ma, Yilong Yin</div>
+            <div class="pub-venue">Scientia Sinica Informationis (中国科学:信息科学), 2024.</div>
+            <div class="pub-links">
+              <a href="https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0395" target="_blank" rel="noopener">PDF</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">CVPR<br>2023</div>
+          <div class="pub-body">
+            <div class="pub-title">Fine-Grained Classification with Noisy Labels</div>
+            <div class="pub-authors">Qi Wei, Lei Feng, <span class="me">Haoliang Sun</span>*, Ren Wang, Chenhui Guo, Yilong Yin</div>
+            <div class="pub-venue">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2303.02404" target="_blank" rel="noopener">arXiv</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">ECCV<br>2022</div>
+          <div class="pub-body">
+            <div class="pub-title">Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization</div>
+            <div class="pub-authors">Qi Wei, <span class="me">Haoliang Sun</span>*, Xiankai Lu, Yilong Yin</div>
+            <div class="pub-venue">European Conference on Computer Vision (ECCV), 2022.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2208.11351" target="_blank" rel="noopener">arXiv</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">PR<br>2021</div>
+          <div class="pub-body">
+            <div class="pub-title">Learning to Rectify for Robust Learning with Noisy Labels</div>
+            <div class="pub-authors"><span class="me">Haoliang Sun</span>#*, Chenhui Guo#, Qi Wei, Zhongyi Han, Yilong Yin</div>
+            <div class="pub-venue">Pattern Recognition (PR), 2021.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2111.04239" target="_blank" rel="noopener">arXiv</a>
+              <a href="https://github.com/haolsun/WarPI" target="_blank" rel="noopener">Code</a>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="group">Learning in a Dynamic Environment</h3>
+
+        <div class="pub">
+          <div class="badge">CVPR<br>2025</div>
+          <div class="pub-body">
+            <div class="pub-title">SeqMvRL: A Sequential Fusion Framework for Multi-view Representation Learning</div>
+            <div class="pub-authors">Ren Wang, <span class="me">Haoliang Sun</span>*, Yuxiu Lin, Chuanhui Zuo, Yongshun Gong, Yilong Yin, Wenjia Meng</div>
+            <div class="pub-venue">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</div>
+            <div class="pub-links">
+              <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_SeqMvRL_A_Sequential_Fusion_Framework_for_Multi-view_Representation_Learning_CVPR_2025_paper.pdf" target="_blank" rel="noopener">PDF</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">ML<br>2024</div>
+          <div class="pub-body">
+            <div class="pub-title">Learning Sample-Aware Threshold for Semi-Supervised Learning</div>
+            <div class="pub-authors">Qi Wei, Lei Feng, <span class="me">Haoliang Sun</span>*, Ren Wang, Rundong He, Yilong Yin</div>
+            <div class="pub-venue">Machine Learning, 2024 (ACML 2023 Journal Track).</div>
+            <div class="pub-links">
+              <a href="https://link.springer.com/article/10.1007/s10994-023-06425-7" target="_blank" rel="noopener">PDF</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">PR<br>2023</div>
+          <div class="pub-body">
+            <div class="pub-title">Attentional Prototype Inference for Few-Shot Segmentation</div>
+            <div class="pub-authors"><span class="me">Haoliang Sun</span>*, Xiankai Lu, Haochen Wang, Yilong Yin, Xiantong Zhen, Cees G. M. Snoek, Ling Shao</div>
+            <div class="pub-venue">Pattern Recognition (PR), 2023.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2105.06668" target="_blank" rel="noopener">arXiv</a>
+              <a href="https://github.com/haolsun/API" target="_blank" rel="noopener">Code</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">CVPR<br>2023</div>
+          <div class="pub-body">
+            <div class="pub-title">MetaViewer: Towards A Unified Multi-View Representation</div>
+            <div class="pub-authors">Ren Wang, <span class="me">Haoliang Sun</span>*, Yuling Ma, Xiaoming Xi, Yilong Yin</div>
+            <div class="pub-venue">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2303.06329" target="_blank" rel="noopener">arXiv</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">KBS<br>2022</div>
+          <div class="pub-body">
+            <div class="pub-title">SNIP-FSL: Finding Task-Specific Lottery Jackpots for Few-Shot Learning</div>
+            <div class="pub-authors">Ren Wang, <span class="me">Haoliang Sun</span>*, Xiushan Nie, Yilong Yin</div>
+            <div class="pub-venue">Knowledge-Based Systems (KBS), 2022.</div>
+            <div class="pub-links">
+              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705122001733" target="_blank" rel="noopener">PDF</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">ICML<br>2020</div>
+          <div class="pub-body">
+            <div class="pub-title">Learning to Learn Kernels with Variational Random Features</div>
+            <div class="pub-authors">Xiantong Zhen#, <span class="me">Haoliang Sun</span>#, Yingjun Du#, Jun Xu, Yilong Yin, Ling Shao, Cees Snoek</div>
+            <div class="pub-venue">International Conference on Machine Learning (ICML), 2020.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2006.06707" target="_blank" rel="noopener">arXiv</a>
+              <a href="https://github.com/haolsun/MetaVRF" target="_blank" rel="noopener">Code</a>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="group">Kernel Methods</h3>
+
+        <div class="pub">
+          <div class="badge">ICIP<br>2019</div>
+          <div class="pub-body">
+            <div class="pub-title">Learning the Set Graphs: Image-Set Classification Using Sparse Graph Convolutional Networks</div>
+            <div class="pub-authors"><span class="me">Haoliang Sun</span>*, Xiantong Zhen, Yilong Yin</div>
+            <div class="pub-venue">IEEE International Conference on Image Processing (ICIP), 2019.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2208.11351" target="_blank" rel="noopener">arXiv</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">CVPR<br>2017</div>
+          <div class="pub-body">
+            <div class="pub-title">Learning Deep Match Kernels for Image-Set Classification</div>
+            <div class="pub-authors"><span class="me">Haoliang Sun</span>*, Xiantong Zhen, Yuanjie Zheng, Gongping Yang, Yilong Yin, Shuo Li</div>
+            <div class="pub-venue">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.</div>
+            <div class="pub-links">
+              <a href="https://web.archive.org/web/20181123142235id_/http://openaccess.thecvf.com:80/content_cvpr_2017/papers/Sun_Learning_Deep_Match_CVPR_2017_paper.pdf" target="_blank" rel="noopener">PDF</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <div class="badge">IPMI<br>2017</div>
+          <div class="pub-body">
+            <div class="pub-title">Directly Estimating Spinal Cobb Angles by Structured Multi-Output Regression</div>
+            <div class="pub-authors"><span class="me">Haoliang Sun</span>*, Xiantong Zhen, Chris Bailey, Parham Rasoulinejad, Yilong Yin, Shuo Li</div>
+            <div class="pub-venue">Information Processing in Medical Imaging (IPMI), Oral Paper, 2017.</div>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2012.12626" target="_blank" rel="noopener">arXiv</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Education -->
+      <section class="section" id="education">
+        <h2>Education &amp; Experience</h2>
+        <ul class="edu">
+          <li><span class="yr">2020</span><span class="what"><strong>PhD in Engineering</strong>, Shandong University (advisor: Prof. Yilong Yin)</span></li>
+          <li><span class="yr">2014</span><span class="what"><strong>Bachelor in Engineering</strong>, Shandong University</span></li>
+          <li><span class="yr">2018–2019</span><span class="what">Visiting Scholar, University of Wisconsin–Madison (advisor: Prof. Vikas Singh; supported by CSC)</span></li>
+          <li><span class="yr">2019</span><span class="what">Research Intern, Inception Institute of Artificial Intelligence (IIAI), UAE</span></li>
+          <li><span class="yr">2016</span><span class="what">Visiting Student, Western University, Canada (advisor: Prof. Shuo Li)</span></li>
+        </ul>
+      </section>
+
+      <!-- Honors -->
+      <section class="section" id="honors">
+        <h2>Honors &amp; Awards</h2>
+        <ul class="honors">
+          <li><strong>2023</strong> — Young Expert of Taishan Scholars, Shandong Province.</li>
+        </ul>
+      </section>
+
+      <!-- Services -->
+      <section class="section" id="services">
+        <h2>Professional Services</h2>
+        <div class="svc-group">
+          <h4>Conference Reviewer / Program Committee</h4>
+          <div class="svc-tags">
+            <span>ICML (2024)</span><span>NeurIPS (2023, 2024)</span><span>ICLR (2024)</span>
+            <span>AAAI (2020–2024)</span><span>CVPR (2022–2023)</span><span>ICCV (2023)</span><span>ECCV (2022, 2024)</span>
+          </div>
+        </div>
+        <div class="svc-group">
+          <h4>Journal Reviewer</h4>
+          <div class="svc-tags">
+            <span>T-PAMI</span><span>T-IP</span><span>T-KDE</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Courses -->
+      <section class="section" id="courses">
+        <h2>Courses</h2>
+        <ul class="course-list">
+          <li><div class="ct">Foundations of AI</div><div class="cy">2025–2026</div></li>
+          <li><div class="ct">Advanced Machine Learning</div><div class="cy">2024–2025</div></li>
+          <li><div class="ct">Mathematical Logic</div><div class="cy">2023–2024</div></li>
+          <li><div class="ct">Compilation Principles and Techniques</div><div class="cy">2024–2026</div></li>
+        </ul>
+      </section>
+
+      <!-- People -->
+      <section class="section" id="people">
+        <h2>People</h2>
+        <h3 class="group">Current Students</h3>
+        <div class="person-grid">
+          <div class="person"><div class="ini">YZ</div><div><div class="pname">Yaqi Zhao</div><div class="pmeta">Master student · from 2023 (co-advised by Prof. Yilong Yin)</div></div></div>
+          <div class="person"><div class="ini">YW</div><div><div class="pname">Yating Wang</div><div class="pmeta">Master student · from 2024</div></div></div>
+          <div class="person"><div class="ini">CZ</div><div><div class="pname">Chuanhui Zuo</div><div class="pmeta">Master student · from 2024</div></div></div>
+          <div class="person"><div class="ini">QT</div><div><div class="pname">Qiuyu Tian</div><div class="pmeta">Master student · from 2024</div></div></div>
+          <div class="person"><div class="ini">ZX</div><div><div class="pname">Zheng Xia</div><div class="pmeta">Master student · from 2025</div></div></div>
+          <div class="person"><div class="ini">ZZ</div><div><div class="pname">Zichen Zhong</div><div class="pmeta">Master student · from 2025</div></div></div>
+          <div class="person"><div class="ini">XT</div><div><div class="pname">Xiaoyan Tian</div><div class="pmeta">Master student · from 2026</div></div></div>
+          <div class="person"><div class="ini">RK</div><div><div class="pname">Rui Kang</div><div class="pmeta">Master student · from 2026</div></div></div>
+        </div>
+
+        <h3 class="group">Alumni</h3>
+        <div class="person-grid">
+          <div class="person"><div class="ini">YZ</div><div><div class="pname">Yukun Zhao</div><div class="pmeta">Undergrad (2022–2026) → Master student, CUHK Shenzhen</div></div></div>
+          <div class="person"><div class="ini">ZL</div><div><div class="pname">Zizhen Li</div><div class="pmeta">Master (2022–2025) → Engineer, BYD</div></div></div>
+          <div class="person"><div class="ini">ZD</div><div><div class="pname">Zuoling Dong</div><div class="pmeta">Master (2022–2025) → Engineer, Shandong Unicom</div></div></div>
+          <div class="person"><div class="ini">RW</div><div><div class="pname">Ren Wang</div><div class="pmeta">PhD (2021–2024) → Postdoc, Tsinghua University</div></div></div>
+          <div class="person"><div class="ini">YW</div><div><div class="pname">Yuting Wang</div><div class="pmeta">Master (2021–2024) → Engineer, Zhongtai Securities</div></div></div>
+          <div class="person"><div class="ini">QW</div><div><div class="pname">Qi Wei</div><div class="pmeta">Master (2020–2023) → PhD student, NTU</div></div></div>
+          <div class="person"><div class="ini">CG</div><div><div class="pname">Chenhui Guo</div><div class="pmeta">Master (2020–2023) → Engineer, State Grid of China</div></div></div>
+        </div>
+      </section>
+
+      <!-- Contact -->
+      <section class="section" id="contact">
+        <h2>Contact</h2>
+        <div class="contact-box">
+          <div class="contact-row">
+            <svg viewBox="0 0 24 24"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 4.24-8 5.71-8-5.71V6l8 5.71L20 6v2.24z"/></svg>
+            <span class="k">Email</span><a href="mailto:haolsun@sdu.edu.cn">haolsun@sdu.edu.cn</a>
+          </div>
+          <div class="contact-row">
+            <svg viewBox="0 0 24 24"><path d="M12 3 1 9l11 6 9-4.91V17h2V9L12 3zm-7 10.18v3.89L12 21l7-3.93v-3.89L12 17l-7-3.82z"/></svg>
+            <span class="k">Scholar</span><a href="https://scholar.google.com/citations?user=s5FAQ5wAAAAJ" target="_blank" rel="noopener">scholar.google.com/citations?user=s5FAQ5wAAAAJ</a>
+          </div>
+          <div class="contact-row">
+            <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+            <span class="k">GitHub</span><a href="https://github.com/haolsun" target="_blank" rel="noopener">github.com/haolsun</a>
+          </div>
+          <div class="contact-row">
+            <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm7.93 9H13V4.07A8 8 0 0 1 19.93 11zM13 19.93V13h6.93A8 8 0 0 1 13 19.93zM11 4.07V11H4.07A8 8 0 0 1 11 4.07zM4.07 13H11v6.93A8 8 0 0 1 4.07 13z"/></svg>
+            <span class="k">中文</span><a href="https://faculty.sdu.edu.cn/sunhaoliang1/zh_CN/" target="_blank" rel="noopener">faculty.sdu.edu.cn/sunhaoliang1</a>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <footer class="footer">
+    © <span id="year"></span> Haoliang Sun · Built with plain HTML/CSS/JS · Hosted on GitHub Pages
+  </footer>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
